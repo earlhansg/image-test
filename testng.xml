@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="ehg.test.LogoTest"/>
+      <class name="ehg.test.logoTest"/>
     </classes>
   </test> 
   <!-- Test -->

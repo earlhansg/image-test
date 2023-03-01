@@ -1,0 +1,6 @@
+ehg\test\App.class
+ehg\test\logoTest.class
+ehg\base\BasePage.class
+ehg\base\WebDriverInstance.class
+ehg\base\Hooks.class
+ehg\pageObjects\HomePage.class

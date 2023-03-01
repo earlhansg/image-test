@@ -16,7 +16,7 @@ public class HomePage extends BasePage {
         super();
         //TODO Auto-generated constructor stub
     }
-
+    
     By logoImage = By.cssSelector("[data-toggle-type] .custom-logo");
 
     public WebElement getLogoImage() throws IOException {
