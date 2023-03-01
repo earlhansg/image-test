@@ -1,4 +1,4 @@
-package ehg;
+package ehg.test;
 
 /**
  * Hello world!
