@@ -2,25 +2,16 @@ package ehg.test;
 
 import java.io.File;
 import java.io.IOException;
-import java.time.Duration;
 
 import javax.imageio.ImageIO;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.Test;
-// import org.testng.Assert;
 
 import ehg.base.Hooks;
 import ehg.pageObjects.HomePage;
 import ru.yandex.qatools.ashot.AShot;
 import ru.yandex.qatools.ashot.Screenshot;
 import ru.yandex.qatools.ashot.coordinates.WebDriverCoordsProvider;
-import ru.yandex.qatools.ashot.shooting.ShootingStrategies;
 
 public class logoTest extends Hooks {
 
